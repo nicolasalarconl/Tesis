@@ -1,11 +1,12 @@
 ---
 title: Code Simulate Interferometer
 created: '2020-06-02T22:42:30.879Z'
-modified: '2020-06-03T02:35:10.567Z'
+modified: '2020-06-03T03:42:43.937Z'
 ---
 
 # Code Simulate Interferometer
 
+# PONERL LINK GITHUB 
 Librerias a utilizar
 ```python
 import numpy as np

@@ -1,7 +1,7 @@
 ---
 title: Wavelength
 created: '2020-06-02T22:35:07.034Z'
-modified: '2020-06-02T22:53:54.559Z'
+modified: '2020-06-03T03:35:08.652Z'
 ---
 
 # Wavelength
@@ -19,3 +19,5 @@ wavelength = const_c/frequency
 
 y
 𝑏[𝜆]=10−9c𝜆×𝑏[ns] nano segndos-> longitud de onda
+
+

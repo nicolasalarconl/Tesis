@@ -1,10 +1,13 @@
 ---
 title: Radio Interferometry
 created: '2020-06-02T15:04:57.112Z'
-modified: '2020-06-02T22:59:15.660Z'
+modified: '2020-06-03T03:43:28.324Z'
 ---
 
 # Radio Interferometry
+
+# referenciar 
+
 
 Los [Radio Telescopio](./Radio Telescopio.md) se pueden usar individualmente o se pueden unir. El conjunto de Radiotelescopios, es también conocido como Interferómetro astronómico.
 

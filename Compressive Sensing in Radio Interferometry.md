@@ -1,10 +1,12 @@
 ---
 title: Compressive Sensing in Radio Interferometry
 created: '2020-06-02T22:33:41.615Z'
-modified: '2020-06-02T22:33:56.055Z'
+modified: '2020-06-03T03:43:01.705Z'
 ---
 
 # Compressive Sensing in Radio Interferometry
+
+# referenciar 
 
 El algoritmo de reconstrucción de imagen más estándar en radio interferometría es llamado CLEAN.
 

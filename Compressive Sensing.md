@@ -1,11 +1,12 @@
 ---
 title: Compressive Sensing
 created: '2020-06-02T22:29:39.592Z'
-modified: '2020-06-02T22:33:23.974Z'
+modified: '2020-06-03T03:42:54.019Z'
 ---
 
 # Compressive Sensing
 
+# referenciar 
 Los enfoques tradicionales para muestrear señales o imágenes se basan en teorema de Nyquist: la frecuencia de muestreo debe ser al menos el doble del máximo frecuencia presente en la señal. Utilizando este teorema las señales muestreadas o las imágenes mantienen completamente la información de las señales originales para que podamos recuperarlos exactamente más tarde. De hecho, este principio subyace en casi todas las señales. protocolos de adquisición utilizados en electrónica de audio y visual de consumo, médica dispositivos de imagen, receptores de radio, etc.
 
 En muchos emergentes e importantes áreas, la tasa resultante de Nyquist sigue siendo tan alta que terminamos con demasiados muestras, a veces, puede ser demasiado costoso o incluso físicamente imposible de construir dispositivos que son capaces de adquirir muestras a la velocidad necesaria. Por lo tanto, en algunas áreas de aplicación, como imágenes médicas, vigilancia remota, espectroscopia, [Radio Interferómetro](./Radio Interferometry.md). Los sistemas de detección tradicionales basados ​​en el teorema de Nyquist ya no puede satisfacer la necesidad.

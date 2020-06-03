@@ -1,10 +1,12 @@
 ---
 title: Radio Telescopio
 created: '2020-06-02T03:59:43.380Z'
-modified: '2020-06-02T15:08:34.285Z'
+modified: '2020-06-03T03:43:34.411Z'
 ---
 
 # Radio Telescopio 
+
+# referenciar 
 
 Actualmente el radiotelescopio más grande del mundo como plato único es el Arecibo telescopio que se encuentra en un hueco natural en Puerto Rico, Sudamérica.
 
