@@ -1,7 +1,7 @@
 ---
 title: Clases
 created: '2020-06-08T23:20:05.609Z'
-modified: '2020-06-15T20:26:33.318Z'
+modified: '2020-06-15T20:35:24.969Z'
 ---
 
 # Clases
@@ -19,7 +19,7 @@ Se refiere a los datos medidos por un conjunto de antenas. Estos datos son:
 
 
 <p align="center">
-  $V_{ij}$  = $<$ $E_{i}$ * $E_{j}$ $>$  
+  $\mathbf {V_{ij} = <E_{i}*E_{j}>}$
 </p>
 
 
