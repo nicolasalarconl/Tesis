@@ -1,12 +1,12 @@
 ---
 title: Clases
 created: '2020-06-08T23:20:05.609Z'
-modified: '2020-06-15T20:35:24.969Z'
+modified: '2020-06-15T21:00:15.621Z'
 ---
 
 # Clases
 
-## Sintesis de imagen
+## Sintesis de Imagen
 
 
 <p align="center">
@@ -15,18 +15,17 @@ modified: '2020-06-15T20:35:24.969Z'
 
 Se refiere a los datos medidos por un conjunto de antenas. Estos datos son:
 
-* $(V_{ij})$ Promedio del producto del [Campo Electrico](./Electric Field.md) entre dos antenas (las antenas i , j siendo sus campos $E_{i}$ y $E_{j}$).
+* $(V_{ij})$ Promedio del producto del [Campo Electrico](./Electric Field.md) entre dos antenas (las antenas $i$ , $j$ siendo sus campos $E_{i}$ y $E_{j}$).
 
 
 <p align="center">
-  $\mathbf {V_{ij} = <E_{i}*E_{j}>}$
+   $V_{ij} = <E_{i}*E_{j}>$
 </p>
 
+> Es decir lo que se mide en la antena $i$ multiplicado por lo que se mide en la antena $j$. El numero resultante se le llama [Visibilidad](./Visibilidad.md) y es un numero complejo con unidad de medida de $jansky$, una unidad de energia. <br/> Cuando los datos se reciben nunca se aprecian los campos electricos individuales, si no el resultado final de $(V_{ij})$.
 
-  Es decir lo que se mide en la antena i multiplicado por lo que se mide en la antena j. el numero se le llama ~~visibilidad~~. El resultado es un numero complejo y su unidad de medida de $jansky$, una unidad de energia.
-
-
-* $(u,v)$ $metros$: Se considera como si el objeto observado estuviese en el punto mas alto del cielo. Cuando esta inclinado se considera la proyección. 
+* $(u,v)$ $metros$: Es un vector que determina la distancia entre dos pares de antena 
+Se considera como si el objeto observado estuviese en el punto mas alto del cielo. Cuando esta inclinado se considera la proyección. 
 * BUSCAR EXPLICACión a lo anterior.
 
 * $(V_{ij})$ $Jy(Jansky)$: Es un par de numeros, es un complejo. Es una unidad de energia. 
@@ -103,4 +102,12 @@ a media altura de la psf se obtiene un ovalo, resolución $I^D$ llamado Dirty Be
 
  * ¿Como se agregan los pixeles? 
  Se escoge el pixel que disminuya el error de $|I^D - I^D actual |$
+
+
+ arreglar formato..
+ agregar nuevas paginas. (altiro)
+ descargar casa
+ investigar algoritmo clean.
+ generar dudas
+
 
