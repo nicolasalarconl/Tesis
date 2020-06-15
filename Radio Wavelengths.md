@@ -1,7 +1,7 @@
 ---
 title: Radio Wavelengths
 created: '2020-06-03T03:12:23.497Z'
-modified: '2020-06-03T03:39:05.012Z'
+modified: '2020-06-04T15:24:54.662Z'
 ---
 
 # Radio Wavelengths
@@ -14,7 +14,7 @@ Las ondas de radio pueden ser creadas de manera natural por fenómenos naturales
 
 * [Referencia Wikipedia](https://es.wikipedia.org/wiki/Ondas_de_radio)
 
-¿ Por que Observar en Radio Ondas? 
+### ¿Por que Observar en Radio Ondas? 
 Hay muchas razones por las cuales es ventajoso observar en longitudes de onda de radio.
 
 * Las ondas de radio llegan al suelo 
@@ -25,3 +25,17 @@ La primera razón es simplemente que es posible observar ondas de radio desde el
 
 ![alt text](transgraph_colorized.jpg)
 
+Algunos objetos y fenómenos son invisibles o difíciles de detectar en otras longitudes de onda, y solo se pueden ver, o se pueden ver con mayor sensibilidad, en la radio. Estos son algunos de los muchos ejemplos entre los que podríamos elegir:
+
+![alt text](./galaxia.png)
+
+![alt text](./sun.png)
+
+
+Otra importante razon para explorar objetos astronómicos en longitudes de onda de radio es que las propiedades de emisión proporcionan información física cuantitativa sobre las condiciones en la fuente. La cuantificación de las propiedades espectrales, como el brillo máximo, la frecuencia máxima, las pendientes espectrales, etc., proporciona parámetros de diagnóstico cuantitativos.
+
+La emisión de radio se produce de muchas maneras. Los radio fotones de baja energía son relativamente fáciles de producir, lo que hace que las emisiones de radio sean sensibles a muchos parámetros. 
+
+Por todas estas razones y más, el rango de radio de las longitudes de onda es tan esencial como los rayos gamma, rayos X, UV, óptico e IR para proporcionar una imagen completa de la naturaleza física de las fuentes astronómicas.
+
+* [Introducción a la radioastronomía, E. Gary](https://web.njit.edu/~gary/728/Lecture1.html)
